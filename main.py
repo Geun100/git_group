@@ -1,4 +1,5 @@
 
+
 # 1) like 담당자인 경우
 import like
 
@@ -32,3 +33,4 @@ import comment
 
 def main():
 	return comment.comment()
+
